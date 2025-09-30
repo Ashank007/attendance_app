@@ -1,6 +1,8 @@
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 # 📝 Offline Attendance App
 
@@ -67,6 +69,12 @@ To get a local copy up and running, follow these simple steps.
     ```sh
     flutter run
     ```
+
+## 📸 Screenshots
+<p align="center">
+  <img src="assets/home.png" width="260" />
+</p>
+
 ## 📄 License
 
 This project is licensed under MIT License.
