@@ -74,6 +74,7 @@ To get a local copy up and running, follow these simple steps.
 <p align="center">
   <img src="assets/home.png" width="260" />  
   <img src="assets/add_student.png" width="260" />
+  <img src="assets/mark_attendance.png" width="260" />
 </p>
 
 ## 📄 License
